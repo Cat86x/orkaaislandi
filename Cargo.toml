@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-inquire = "0.5.0"
+inquire = "0.7.5"
